@@ -1,0 +1,33 @@
+body {
+    background-image:
+    linear-gradient(
+      to bottom,
+    );
+}
+}
+div {
+  width:320px
+}
+h1 {
+      border-top: solid  4px #25567B;
+      border-bottom: solid  4px #25567B;
+      background-color:white;
+      opacity:0.6;
+}
+p strong{
+  font-size:30px
+}
+p {
+  font-size:30px;
+}
+.gradient{
+  border-radius:10px;
+  width:60px;
+  height:15px;
+  background-image:
+    linear-gradient(
+      to right, 
+      grey, #BDB2FF
+    );
+}
+
