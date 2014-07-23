@@ -8,8 +8,8 @@
     </head>
     <body>
       <div>
-        <h1>DataYogurt
-          <br><span>Enhanced Learning</span>
+        <h1>DataYogurt:
+          <br>Enhanced Learning
         </h1>
       </div>
       <div1>
@@ -64,7 +64,5 @@ div1 p {
       grey, #BDB2FF
     );
 }
-h1 span { 
-   font-size:10px;
-}
+
 </style>
